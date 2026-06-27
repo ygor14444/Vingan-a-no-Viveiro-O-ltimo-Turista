@@ -1,0 +1,1331 @@
+fileFormatVersion: 2
+guid: cf2c307902e103f4987de7cf62f562d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3700811295201249235
+    second: uvas-removebg-preview_0
+  - first:
+      213: 5201972660143436597
+    second: uvas-removebg-preview_1
+  - first:
+      213: -1385167856060959115
+    second: uvas-removebg-preview_2
+  - first:
+      213: 8071921783058713268
+    second: uvas-removebg-preview_3
+  - first:
+      213: 1534616308883260141
+    second: uvas-removebg-preview_4
+  - first:
+      213: -7678756021349613793
+    second: uvas-removebg-preview_5
+  - first:
+      213: -2623848753669565576
+    second: uvas-removebg-preview_6
+  - first:
+      213: 4007585316612188553
+    second: uvas-removebg-preview_7
+  - first:
+      213: 6458312513421839250
+    second: uvas-removebg-preview_8
+  - first:
+      213: -9057283724939587702
+    second: uvas-removebg-preview_9
+  - first:
+      213: 910821004610092781
+    second: uvas-removebg-preview_10
+  - first:
+      213: 8801177883075006413
+    second: uvas-removebg-preview_11
+  - first:
+      213: 5788573797804066675
+    second: uvas-removebg-preview_12
+  - first:
+      213: 7464892837653827331
+    second: uvas-removebg-preview_13
+  - first:
+      213: -7458627936248017119
+    second: uvas-removebg-preview_14
+  - first:
+      213: -8182825669248768352
+    second: uvas-removebg-preview_15
+  - first:
+      213: 3030931858171998411
+    second: uvas-removebg-preview_16
+  - first:
+      213: -8444651937389525664
+    second: uvas-removebg-preview_17
+  - first:
+      213: 7473953394952680677
+    second: uvas-removebg-preview_18
+  - first:
+      213: -8056332238458691117
+    second: uvas-removebg-preview_19
+  - first:
+      213: -6015422891555630318
+    second: uvas-removebg-preview_20
+  - first:
+      213: 3449295253397167783
+    second: uvas-removebg-preview_21
+  - first:
+      213: 689275116537401488
+    second: uvas-removebg-preview_22
+  - first:
+      213: -6465457931700065362
+    second: uvas-removebg-preview_23
+  - first:
+      213: 6317056533184658277
+    second: uvas-removebg-preview_24
+  - first:
+      213: -4905972648390293435
+    second: uvas-removebg-preview_25
+  - first:
+      213: 8179658927771671250
+    second: uvas-removebg-preview_26
+  - first:
+      213: 5992890405669119753
+    second: uvas-removebg-preview_27
+  - first:
+      213: -1875374111041119087
+    second: uvas-removebg-preview_28
+  - first:
+      213: -2974281022543987551
+    second: uvas-removebg-preview_29
+  - first:
+      213: -2238128012422493497
+    second: uvas-removebg-preview_30
+  - first:
+      213: 1234987189319809958
+    second: uvas-removebg-preview_31
+  - first:
+      213: 6316897926050606338
+    second: uvas-removebg-preview_32
+  - first:
+      213: -4624465637501360077
+    second: uvas-removebg-preview_33
+  - first:
+      213: 8933475128272506124
+    second: uvas-removebg-preview_34
+  - first:
+      213: -3136283374830077878
+    second: uvas-removebg-preview_35
+  - first:
+      213: 6714259853639065831
+    second: uvas-removebg-preview_36
+  - first:
+      213: -4716879154118048762
+    second: uvas-removebg-preview_37
+  - first:
+      213: -1731662539513753611
+    second: uvas-removebg-preview_38
+  - first:
+      213: -8849058424928354661
+    second: uvas-removebg-preview_39
+  - first:
+      213: -1374405223360113685
+    second: uvas-removebg-preview_40
+  - first:
+      213: 276885077306328936
+    second: uvas-removebg-preview_41
+  - first:
+      213: -5497628154775480049
+    second: uvas-removebg-preview_42
+  - first:
+      213: 8192675765895043834
+    second: uvas-removebg-preview_43
+  - first:
+      213: 1288085673402296695
+    second: uvas-removebg-preview_44
+  - first:
+      213: -5300990048703639856
+    second: uvas-removebg-preview_45
+  - first:
+      213: 605562584757990537
+    second: uvas-removebg-preview_46
+  - first:
+      213: 312221066888368123
+    second: uvas-removebg-preview_47
+  - first:
+      213: 7521971048965936801
+    second: uvas-removebg-preview_48
+  - first:
+      213: -350036515283726356
+    second: uvas-removebg-preview_49
+  - first:
+      213: -1723990206492156669
+    second: uvas-removebg-preview_50
+  - first:
+      213: -8395957566654450301
+    second: uvas-removebg-preview_51
+  - first:
+      213: -6760126359995811895
+    second: uvas-removebg-preview_52
+  - first:
+      213: -278461169362443005
+    second: uvas-removebg-preview_53
+  - first:
+      213: -7100551334102183524
+    second: uvas-removebg-preview_54
+  - first:
+      213: 4007363667374164429
+    second: uvas-removebg-preview_55
+  - first:
+      213: -5678139447087524073
+    second: uvas-removebg-preview_56
+  - first:
+      213: -7387069186247850670
+    second: uvas-removebg-preview_57
+  - first:
+      213: 7968401141799065781
+    second: uvas-removebg-preview_58
+  - first:
+      213: -385427794427427960
+    second: uvas-removebg-preview_59
+  - first:
+      213: -8858955100109861761
+    second: uvas-removebg-preview_60
+  - first:
+      213: 3013158080296543264
+    second: uvas-removebg-preview_61
+  - first:
+      213: 1332926646369760750
+    second: uvas-removebg-preview_62
+  - first:
+      213: 6363807263704310430
+    second: uvas-removebg-preview_63
+  - first:
+      213: 4761922879845461820
+    second: uvas-removebg-preview_64
+  - first:
+      213: 3836939234852108090
+    second: uvas-removebg-preview_65
+  - first:
+      213: 5823633501816436660
+    second: uvas-removebg-preview_66
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: uvas-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 314
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d74937e34ceb5330800000000000000
+      internalID: 3700811295201249235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 314
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533b42bb29e113840800000000000000
+      internalID: 5201972660143436597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 312
+        width: 36
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57672318c25e6cce0800000000000000
+      internalID: -1385167856060959115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 311
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bac3f5481a350070800000000000000
+      internalID: 8071921783058713268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 314
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de20285f66d0c4510800000000000000
+      internalID: 1534616308883260141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 226
+        width: 48
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f709615149f6590800000000000000
+      internalID: -7678756021349613793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 262
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989adb3cc9dcd9730800000000000000
+      internalID: 4007585316612188553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 262
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b08fa630980a950800000000000000
+      internalID: 6458312513421839250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 262
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f8c0190701e4280800000000000000
+      internalID: -9057283724939587702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 263
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deebfb1c0e2e3ac00800000000000000
+      internalID: 910821004610092781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 262
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfc5bd67a0142a70800000000000000
+      internalID: 8801177883075006413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 209
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377ce3e2335255050800000000000000
+      internalID: 5788573797804066675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 210
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fc6b23c70a89760800000000000000
+      internalID: 7464892837653827331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 210
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fc124d861ad7890800000000000000
+      internalID: -7458627936248017119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 209
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6aa758863c07e80800000000000000
+      internalID: -8182825669248768352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 210
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0b1c86778001a20800000000000000
+      internalID: 3030931858171998411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 209
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065451cfdc19eca80800000000000000
+      internalID: -8444651937389525664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 209
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4baf59301d8b760800000000000000
+      internalID: 7473953394952680677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 200
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab29ce34441646a0800000000000000
+      internalID: -6465457931700065362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 198
+        width: 88
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90721cf72160b2350800000000000000
+      internalID: 5992890405669119753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 86
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a483a4823eea974d0800000000000000
+      internalID: -3136283374830077878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 127
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0a2d163c7dd2d50800000000000000
+      internalID: 6714259853639065831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 127
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604495286674a8eb0800000000000000
+      internalID: -4716879154118048762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 127
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff8e655816e7f7e0800000000000000
+      internalID: -1731662539513753611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 152
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9eb7713f34d13580800000000000000
+      internalID: -8849058424928354661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 70
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3dd243bb12dece0800000000000000
+      internalID: -1374405223360113685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 70
+        width: 67
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8674374c281b7d300800000000000000
+      internalID: 276885077306328936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 70
+        width: 67
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09db67225084b3b0800000000000000
+      internalID: -5497628154775480049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 71
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa1022d33b32b170800000000000000
+      internalID: 8192675765895043834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 71
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779e96b681330e110800000000000000
+      internalID: 1288085673402296695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 71
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de8325f2a91f66b0800000000000000
+      internalID: -5300990048703639856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 68
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98474c166f3676800800000000000000
+      internalID: 605562584757990537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 67
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff4647f76b355400800000000000000
+      internalID: 312221066888368123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 70
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a61360e0d8636860800000000000000
+      internalID: 7521971048965936801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 10
+        width: 71
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef0918d4ab642bf0800000000000000
+      internalID: -350036515283726356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 5
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d58c19a082318e0800000000000000
+      internalID: -1723990206492156669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 10
+        width: 60
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385fe4aa3119b7b80800000000000000
+      internalID: -8395957566654450301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 4
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7f1bb64e43f22a0800000000000000
+      internalID: -6760126359995811895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3056964ba05b22cf0800000000000000
+      internalID: -278461169362443005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 9
+        width: 57
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91d9659e26c57d90800000000000000
+      internalID: -7100551334102183524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 4
+        width: 94
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c01d0f54bae0580800000000000000
+      internalID: -8858955100109861761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 10
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee5b58409b18f7210800000000000000
+      internalID: 1332926646369760750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uvas-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 9
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b735d1a0d3b1d050800000000000000
+      internalID: 5823633501816436660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 751dd22f69362694c882b1445102fef4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      uvas-removebg-preview_0: 3700811295201249235
+      uvas-removebg-preview_1: 5201972660143436597
+      uvas-removebg-preview_10: 910821004610092781
+      uvas-removebg-preview_11: 8801177883075006413
+      uvas-removebg-preview_12: 5788573797804066675
+      uvas-removebg-preview_13: 7464892837653827331
+      uvas-removebg-preview_14: -7458627936248017119
+      uvas-removebg-preview_15: -8182825669248768352
+      uvas-removebg-preview_16: 3030931858171998411
+      uvas-removebg-preview_17: -8444651937389525664
+      uvas-removebg-preview_18: 7473953394952680677
+      uvas-removebg-preview_19: -8056332238458691117
+      uvas-removebg-preview_2: -1385167856060959115
+      uvas-removebg-preview_20: -6015422891555630318
+      uvas-removebg-preview_21: 3449295253397167783
+      uvas-removebg-preview_22: 689275116537401488
+      uvas-removebg-preview_23: -6465457931700065362
+      uvas-removebg-preview_24: 6317056533184658277
+      uvas-removebg-preview_25: -4905972648390293435
+      uvas-removebg-preview_26: 8179658927771671250
+      uvas-removebg-preview_27: 5992890405669119753
+      uvas-removebg-preview_28: -1875374111041119087
+      uvas-removebg-preview_29: -2974281022543987551
+      uvas-removebg-preview_3: 8071921783058713268
+      uvas-removebg-preview_30: -2238128012422493497
+      uvas-removebg-preview_31: 1234987189319809958
+      uvas-removebg-preview_32: 6316897926050606338
+      uvas-removebg-preview_33: -4624465637501360077
+      uvas-removebg-preview_34: 8933475128272506124
+      uvas-removebg-preview_35: -3136283374830077878
+      uvas-removebg-preview_36: 6714259853639065831
+      uvas-removebg-preview_37: -4716879154118048762
+      uvas-removebg-preview_38: -1731662539513753611
+      uvas-removebg-preview_39: -8849058424928354661
+      uvas-removebg-preview_4: 1534616308883260141
+      uvas-removebg-preview_40: -1374405223360113685
+      uvas-removebg-preview_41: 276885077306328936
+      uvas-removebg-preview_42: -5497628154775480049
+      uvas-removebg-preview_43: 8192675765895043834
+      uvas-removebg-preview_44: 1288085673402296695
+      uvas-removebg-preview_45: -5300990048703639856
+      uvas-removebg-preview_46: 605562584757990537
+      uvas-removebg-preview_47: 312221066888368123
+      uvas-removebg-preview_48: 7521971048965936801
+      uvas-removebg-preview_49: -350036515283726356
+      uvas-removebg-preview_5: -7678756021349613793
+      uvas-removebg-preview_50: -1723990206492156669
+      uvas-removebg-preview_51: -8395957566654450301
+      uvas-removebg-preview_52: -6760126359995811895
+      uvas-removebg-preview_53: -278461169362443005
+      uvas-removebg-preview_54: -7100551334102183524
+      uvas-removebg-preview_55: 4007363667374164429
+      uvas-removebg-preview_56: -5678139447087524073
+      uvas-removebg-preview_57: -7387069186247850670
+      uvas-removebg-preview_58: 7968401141799065781
+      uvas-removebg-preview_59: -385427794427427960
+      uvas-removebg-preview_6: -2623848753669565576
+      uvas-removebg-preview_60: -8858955100109861761
+      uvas-removebg-preview_61: 3013158080296543264
+      uvas-removebg-preview_62: 1332926646369760750
+      uvas-removebg-preview_63: 6363807263704310430
+      uvas-removebg-preview_64: 4761922879845461820
+      uvas-removebg-preview_65: 3836939234852108090
+      uvas-removebg-preview_66: 5823633501816436660
+      uvas-removebg-preview_7: 4007585316612188553
+      uvas-removebg-preview_8: 6458312513421839250
+      uvas-removebg-preview_9: -9057283724939587702
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1312 @@
+fileFormatVersion: 2
+guid: a177d19f306a26c43bef75a8f4e84985
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4100794244972362288
+    second: personagem certo (1)_0
+  - first:
+      213: -8391918040316988578
+    second: personagem certo (1)_1
+  - first:
+      213: -965375682705179324
+    second: personagem certo (1)_2
+  - first:
+      213: 7565885976128329714
+    second: personagem certo (1)_3
+  - first:
+      213: 2458640524783037948
+    second: personagem certo (1)_4
+  - first:
+      213: -6889006665983636092
+    second: personagem certo (1)_5
+  - first:
+      213: -4866768356461094174
+    second: personagem certo (1)_6
+  - first:
+      213: -5040115101693489074
+    second: personagem certo (1)_7
+  - first:
+      213: 7174379637227155698
+    second: personagem certo (1)_8
+  - first:
+      213: -876964285124119891
+    second: personagem certo (1)_9
+  - first:
+      213: -7709142775595890073
+    second: personagem certo (1)_10
+  - first:
+      213: 4825999209393716910
+    second: personagem certo (1)_11
+  - first:
+      213: 1033067286946935243
+    second: personagem certo (1)_12
+  - first:
+      213: 7792139393283247093
+    second: personagem certo (1)_13
+  - first:
+      213: 8478347967521339561
+    second: personagem certo (1)_14
+  - first:
+      213: -1156864957564817110
+    second: personagem certo (1)_15
+  - first:
+      213: -3634049447825672924
+    second: personagem certo (1)_16
+  - first:
+      213: 8651686100285143415
+    second: personagem certo (1)_17
+  - first:
+      213: -1436705382913996104
+    second: personagem certo (1)_18
+  - first:
+      213: 1400302578215891575
+    second: personagem certo (1)_19
+  - first:
+      213: -6618365595496909304
+    second: personagem certo (1)_20
+  - first:
+      213: 7389110082518164484
+    second: personagem certo (1)_21
+  - first:
+      213: 6443592338440462777
+    second: personagem certo (1)_22
+  - first:
+      213: -8305044285454517127
+    second: personagem certo (1)_23
+  - first:
+      213: 851461137916801027
+    second: personagem certo (1)_24
+  - first:
+      213: -7690054737439212752
+    second: personagem certo (1)_25
+  - first:
+      213: 6834299461899407575
+    second: personagem certo (1)_26
+  - first:
+      213: 3571487758267961902
+    second: personagem certo (1)_27
+  - first:
+      213: 4406000134679051585
+    second: personagem certo (1)_28
+  - first:
+      213: 9013164175770992040
+    second: personagem certo (1)_29
+  - first:
+      213: 1811875254172738871
+    second: personagem certo (1)_30
+  - first:
+      213: 3275036267563858339
+    second: personagem certo (1)_31
+  - first:
+      213: 3031865554782706555
+    second: personagem certo (1)_32
+  - first:
+      213: -5605827257379198553
+    second: personagem certo (1)_33
+  - first:
+      213: -6509881879996131261
+    second: personagem certo (1)_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: personagem certo (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 582
+        width: 106
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5c4737c5d0717c0800000000000000
+      internalID: -4100794244972362288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 219
+        width: 97
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53b6be210be98b80800000000000000
+      internalID: -8391918040316988578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 403
+        width: 96
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dbe8d6eeb4a92f0800000000000000
+      internalID: -965375682705179324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_3
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 215
+        width: 66
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f71d32a53d6ff860800000000000000
+      internalID: 7565885976128329714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_4
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 215
+        width: 70
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfda216e788de1220800000000000000
+      internalID: 2458640524783037948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_5
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 217
+        width: 72
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d4fb2dfe45560a0800000000000000
+      internalID: -6889006665983636092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_6
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 197
+        width: 76
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea560d07f3c57cb0800000000000000
+      internalID: -4866768356461094174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_7
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 217
+        width: 76
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e405a78c40aed0ab0800000000000000
+      internalID: -5040115101693489074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_8
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 404
+        width: 121
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f078b0c444809360800000000000000
+      internalID: 7174379637227155698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_9
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 213
+        width: 82
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da2f87801a564d3f0800000000000000
+      internalID: -876964285124119891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_10
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 217
+        width: 71
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a86d98d7f930590800000000000000
+      internalID: -7709142775595890073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_11
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 213
+        width: 73
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae7a3236b469f240800000000000000
+      internalID: 4825999209393716910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_12
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 213
+        width: 71
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc17c8b5931365e00800000000000000
+      internalID: 1033067286946935243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_13
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 404
+        width: 122
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbc9f06e7d332c60800000000000000
+      internalID: 7792139393283247093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_14
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 404
+        width: 122
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8b3466e8429a570800000000000000
+      internalID: 8478347967521339561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_19
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 7
+        width: 77
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7723f9896cfde6310800000000000000
+      internalID: 1400302578215891575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_20
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 8
+        width: 76
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8067db67e87d624a0800000000000000
+      internalID: -6618365595496909304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_21
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 18
+        width: 95
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404a0ca88746b8660800000000000000
+      internalID: 7389110082518164484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_23
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 17
+        width: 82
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c7891793e8ebc80800000000000000
+      internalID: -8305044285454517127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_24
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 15
+        width: 71
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300b499c46ff0db00800000000000000
+      internalID: 851461137916801027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_25
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 6
+        width: 77
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b30afb5ff674590800000000000000
+      internalID: -7690054737439212752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_26
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 0
+        width: 99
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d05823a62f48de50800000000000000
+      internalID: 6834299461899407575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_27
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 8
+        width: 65
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22d73f8139709130800000000000000
+      internalID: 3571487758267961902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_28
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 8
+        width: 70
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d3edb47c1452d30800000000000000
+      internalID: 4406000134679051585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_29
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 9
+        width: 84
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad3b176011351d70800000000000000
+      internalID: 9013164175770992040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_30
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 10
+        width: 88
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7356946a1f2152910800000000000000
+      internalID: 1811875254172738871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_35
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 583
+        width: 92
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e48329700fbc9b247a758b5ab73b16f0
+      internalID: -1355632850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_36
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 581
+        width: 85
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fa1608d5433074d90a941f5c41659c
+      internalID: -722978729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_37
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 580
+        width: 94
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc94ba1749facc5409633ef8af50dd5b
+      internalID: -793959675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_38
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 578
+        width: 84
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34c207c33a95574ab11154a88d58731
+      internalID: -1587016582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_39
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 578
+        width: 98
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c30115cf516c96419fcf55cb9061576
+      internalID: -287392564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_40
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 578
+        width: 98
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821b40548b3ee544aa1e15d1cec040a1
+      internalID: 1375169662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_41
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 581
+        width: 104
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e37ff7455f7d1ed43bb03d4ab77be57b
+      internalID: 1009349583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_42
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 581
+        width: 92
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b666ca6b68a9e5a4cb72df8fb2192726
+      internalID: 949896190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_43
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 581
+        width: 89
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb32a5a708f01644bbef4bf8cb7b4ec
+      internalID: 1483424023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_44
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 580
+        width: 121
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a39e8579a64dc46a01fd23e9cfa7f9
+      internalID: -2041467860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_45
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 582
+        width: 135
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab8abb9b85861145adea37a2f0707b5
+      internalID: -219060479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_46
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 583
+        width: 115
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2d31b88090da748b986039e0f0afe3
+      internalID: -2138235928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_47
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 404
+        width: 95
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43416718747ea84eabebf6d7d071047
+      internalID: -1092990710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_48
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 402
+        width: 105
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d45af83df307e43b4acb4705caae14
+      internalID: -1347322218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_49
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 405
+        width: 95
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b3431380ee7404f8e2745aba469920
+      internalID: -2058036621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_50
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 405
+        width: 99
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fe405fbfae7b24b8d275aba674a85c
+      internalID: -943850023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_51
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 218
+        width: 97
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5f4561a1f347c418ed0d68c99b3ff9
+      internalID: -1633667557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_52
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 217
+        width: 93
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c16d4fa6fc90b41a22760358836b62
+      internalID: 682317340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_53
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 217
+        width: 97
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cb4465c8593624d926e1eb69dcdb65
+      internalID: 1898694704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_54
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 216
+        width: 85
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a70e558de731b0419fc59595d553e1e
+      internalID: -1112444728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: personagem certo (1)_55
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 218
+        width: 87
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6712c4926bdbfd649adb161157d87590
+      internalID: -1997642504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: fdcf1e478b204694bbdb639a2490ae57
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      personagem certo (1)_0: -4100794244972362288
+      personagem certo (1)_1: -8391918040316988578
+      personagem certo (1)_10: -7709142775595890073
+      personagem certo (1)_11: 4825999209393716910
+      personagem certo (1)_12: 1033067286946935243
+      personagem certo (1)_13: 7792139393283247093
+      personagem certo (1)_14: 8478347967521339561
+      personagem certo (1)_15: -1156864957564817110
+      personagem certo (1)_16: -3634049447825672924
+      personagem certo (1)_17: 8651686100285143415
+      personagem certo (1)_18: -1436705382913996104
+      personagem certo (1)_19: 1400302578215891575
+      personagem certo (1)_2: -965375682705179324
+      personagem certo (1)_20: -6618365595496909304
+      personagem certo (1)_21: 7389110082518164484
+      personagem certo (1)_22: 6443592338440462777
+      personagem certo (1)_23: -8305044285454517127
+      personagem certo (1)_24: 851461137916801027
+      personagem certo (1)_25: -7690054737439212752
+      personagem certo (1)_26: 6834299461899407575
+      personagem certo (1)_27: 3571487758267961902
+      personagem certo (1)_28: 4406000134679051585
+      personagem certo (1)_29: 9013164175770992040
+      personagem certo (1)_3: 7565885976128329714
+      personagem certo (1)_30: 1811875254172738871
+      personagem certo (1)_31: 3275036267563858339
+      personagem certo (1)_32: 3031865554782706555
+      personagem certo (1)_33: -5605827257379198553
+      personagem certo (1)_34: -6509881879996131261
+      personagem certo (1)_35: -1355632850
+      personagem certo (1)_36: -722978729
+      personagem certo (1)_37: -793959675
+      personagem certo (1)_38: -1587016582
+      personagem certo (1)_39: -287392564
+      personagem certo (1)_4: 2458640524783037948
+      personagem certo (1)_40: 1375169662
+      personagem certo (1)_41: 1009349583
+      personagem certo (1)_42: 949896190
+      personagem certo (1)_43: 1483424023
+      personagem certo (1)_44: -2041467860
+      personagem certo (1)_45: -219060479
+      personagem certo (1)_46: -2138235928
+      personagem certo (1)_47: -1092990710
+      personagem certo (1)_48: -1347322218
+      personagem certo (1)_49: -2058036621
+      personagem certo (1)_5: -6889006665983636092
+      personagem certo (1)_50: -943850023
+      personagem certo (1)_51: -1633667557
+      personagem certo (1)_52: 682317340
+      personagem certo (1)_53: 1898694704
+      personagem certo (1)_54: -1112444728
+      personagem certo (1)_55: -1997642504
+      personagem certo (1)_6: -4866768356461094174
+      personagem certo (1)_7: -5040115101693489074
+      personagem certo (1)_8: 7174379637227155698
+      personagem certo (1)_9: -876964285124119891
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
